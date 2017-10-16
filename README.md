@@ -1,2 +1,2 @@
 # eslint-rules
-My personal ESLint rule set.
+My personal [ESLint](https://eslint.org/) rule set.
